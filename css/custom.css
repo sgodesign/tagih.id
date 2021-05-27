@@ -1,0 +1,30 @@
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+     background-color: transparent; 
+}
+
+.list-custom{
+    display: inline-flex;
+    width: inherit;
+    padding:1%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.list-custom .list-item {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.list-custom .list-label{
+    display: grid;
+}
+
+.color-green{
+    color: green;
+}
